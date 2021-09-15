@@ -1,1 +1,1 @@
-git 충돌 연습 [userA]
+[userB] git 충돌 연습
